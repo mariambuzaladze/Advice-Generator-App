@@ -24,6 +24,7 @@ main {
   border-radius: 10px;
   padding: 40px 24px 64px;
   gap: 24px;
+  position: relative;
 }
 
 h1 {
@@ -47,4 +48,6 @@ button {
   border: none;
   border-radius: 35px;
   background-color: #53ffaa;
+  position: absolute;
+  top: 185px;
 }
