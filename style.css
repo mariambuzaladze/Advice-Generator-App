@@ -28,3 +28,12 @@ h1 {
   letter-spacing: -0.26px;
   color: #cee3e9;
 }
+
+button {
+  width: 64px;
+  height: 64px;
+  padding: 20px;
+  border: none;
+  border-radius: 35px;
+  background-color: #53ffaa;
+}
