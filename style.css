@@ -21,3 +21,10 @@ h1 {
   letter-spacing: 3.46px;
   color: #53ffaa;
 }
+
+.advice {
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: -0.26px;
+  color: #cee3e9;
+}
