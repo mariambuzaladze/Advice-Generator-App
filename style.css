@@ -15,6 +15,17 @@ body {
   align-items: center;
 }
 
+main {
+  box-shadow: 30px 50px 80px 0 rgba(0, 0, 0, 0.1);
+  background-color: #313a48;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  padding: 40px 24px 64px;
+  gap: 24px;
+}
+
 h1 {
   font-size: 11px;
   font-weight: 800;
