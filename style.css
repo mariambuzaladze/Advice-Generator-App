@@ -6,3 +6,11 @@
   box-sizing: border-box;
   font-family: "Manrope";
 }
+
+body {
+  min-height: 100vh;
+  background-color: #202733;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
