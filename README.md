@@ -17,3 +17,9 @@ Simple and intuitive design for easy use.
 **HTML**: Provides the basic structure of the app.  
 **CSS**: Ensures the app is user-friendly and responsive.  
 **JavaScript**: Fetches advice from the API and dynamically updates the content.  
+
+## Contact
+**Feel free to reach out if you have any questions or feedback:**
+
+**LinkedIn**: [https://www.linkedin.com/in/mariam-buzaladze-aa22b6297/]  
+**Email**: mariambuzaladze10@gmail.com
